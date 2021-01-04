@@ -1,0 +1,13 @@
+/*! @import */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.btn {
+  
+}
+
+.btn-circle {
+  @apply rounded-full h-20 w-20 flex items-center justify-center bg-blue-500;
+}
